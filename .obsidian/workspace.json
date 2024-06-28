@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "eb616eba6c7f9d98",
+    "type": "split",
+    "children": [
+      {
+        "id": "82302cb0bb95f360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41f5591d6497d4f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Work Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfe48df7b56b45db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Explorations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d41d83296480f500",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5c369f2059bc865",
+    "type": "split",
+    "children": [
+      {
+        "id": "d67b7151ad27c8a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfd4c91427892676",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42f8c192e4a16896",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72636ca6c0563bdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e0eeca250e81145",
+    "type": "split",
+    "children": [
+      {
+        "id": "f224cd9aa036dc4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db38d98dc08aebc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c43f33e3711c5ce7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c5a4c50b5684062",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a7059c46ab1562af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "42f8c192e4a16896",
+  "lastOpenFiles": [
+    "Boredom.md",
+    "Deep Work Machine Learning.md",
+    "Explorations.md"
+  ]
+}

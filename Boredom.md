@@ -1,0 +1,3 @@
+- I have been exploring why I get bored. There does not seem to be any good books or anything related to this. 
+- I think I get bored when things I am learning stop being relevant to me. Or its too difficult to understand. Or its too easy for me.
+	- So find items at the right level of difficulty and find things that are relevant to myself.
