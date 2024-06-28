@@ -1,2 +1,4 @@
+- Things I decided to start exploring 06/28/24. Not sure why I need to record the date but I figured why not. I do not want to over record and hoard data, but maybe writing stuff down can help with reinforcing ideas with the end goal of creating new.... 
 - [[Boredom]]
-- 
+- [[Ecological Dynamics]]
+- [[Feeling Overwhelmed]] 

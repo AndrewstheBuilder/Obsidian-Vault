@@ -1,0 +1,2 @@
+- What is this? I heard about it in a Spotify podcast from Combat Learning
+	- He was saying that Ecological Dynamics does not describe well enough the motivation for us to act.

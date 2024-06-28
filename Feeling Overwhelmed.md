@@ -1,0 +1,2 @@
+- 06/28/24: I want to play Hades on the PlayStation but I also wanted to explore science of Embodied Cognition, MLP, EMDR, fast weights in the brain and how they can apply to ML.
+	- I am going to continue my ML work right now. Then in the afternoon I will do the testing for my work. Everything else can come later.

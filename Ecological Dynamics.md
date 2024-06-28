@@ -1,0 +1,2 @@
+- I have to find how it applies to myself.
+	- Everyone's context is completely different so I have to figure out where what they are saying applies to me and where there are caveats for me.

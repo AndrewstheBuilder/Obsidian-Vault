@@ -1,3 +1,9 @@
-- I have been exploring why I get bored. There does not seem to be any good books or anything related to this. 
+- I have been exploring why I get bored. There does not seem to be any good books or anything related to this that seems to be applicable to me! 
 - I think I get bored when things I am learning stop being relevant to me. Or its too difficult to understand. Or its too easy for me.
 	- So find items at the right level of difficulty and find things that are relevant to myself.
+	- Now the question becomes how do I make something relevant to me... Dig deeper into it. 
+		- make it relevant by becoming familiar with the details of it. How does it work?? This is how I deal with something that is complicated to me.
+	- I have a plan of action. I am not working with too many black boxes. When I start to work with a lot of black boxes. Its like playing with Lego bricks my brain feels how limited we are and I get bored. Its like playing with Lego bricks....
+		- I think the way I get bored now is relevant to the things I found boring as a kid!
+		- I do not like plugging in stuff to make things work without having any sort of understanding or a lack of control over it. Like with my Text Mining college course. We used this app called Orange that did the ML algorithms already. We just had to learn the theory then apply it to the set problem with the right "blocks" --- use batch norm after forward propagation block not before etc...
+			- It was not granular enough for me to pick it apart and repurpose it. And it seemed like it was going to take a lot to even see how it was really working. (Massive open source code base...) the level of effort to what I am trying to explore massively weighs in favor of effort. I guess this is when things become too difficult.
