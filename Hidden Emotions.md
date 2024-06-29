@@ -1,0 +1,3 @@
+[[EMDR]] [[Emotional Incest]]
+Can hidden emotions be behind the physical symptoms that I described in [[Emotional Incest]]. If so can [[EMDR]] help me?
+- It seems like conventional wisdom says that stress exists in the conscious part of your brain? But hidden emotion theory suggests that maybe you have stress that you are defending yourself from. Defense mechanisms are really fascinating in that regard

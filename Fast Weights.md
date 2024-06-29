@@ -1,0 +1,3 @@
+- Can there be a different way to design computers because it seems like the digital way of designing a computer wastes a lot of energy.
+- We cannot even store all the computations the brain does on a computer. Or on a massive array of computers. This suggests that we are not being efficient at all with our computation technology.
+- Is the difference between these two Analog vs. Digital computation. Or is there a style of computation that we have not discovered yet??

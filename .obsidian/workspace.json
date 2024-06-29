@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Work Machine Learning.md",
+                "file": "Deep Work Machine Learning Exploration.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explorations.md",
+                "file": "Personal Explorations.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explorations.md",
+                "file": "Personal Explorations.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,12 +59,96 @@
             "id": "22baef62929de348",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embodied Cognition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c808c47b6930068b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emotional Incest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0669bed8deed86db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f3b1ccdfcae6965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jiu Jitsu Explorations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a012ae3b220dfd49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Therapy-Self Healing Explorations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddd8cec086a7b5be",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6e0b87d6accb152",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea788a15776a27fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boredom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8a21a1e67f6b4d1",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -187,13 +271,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22baef62929de348",
+  "active": "f8a21a1e67f6b4d1",
   "lastOpenFiles": [
+    "Deep Work Machine Learning Exploration.md",
+    "Hidden Emotions.md",
     "Boredom.md",
-    "Feeling Overwhelmed.md",
-    "Explorations.md",
-    "Ecological Dynamics.md",
+    "Emotional Incest.md",
     "Embodied Cognition.md",
-    "Deep Work Machine Learning.md"
+    "Personal Explorations.md",
+    "Ecological Dynamics.md",
+    "Jiu Jitsu Explorations.md",
+    "Feeling Overwhelmed.md",
+    "Fast Weights.md",
+    "Therapy-Self Healing Explorations.md",
+    "EMDR.md",
+    "Red Light.md"
   ]
 }

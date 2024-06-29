@@ -1,0 +1,10 @@
+And its effects on me
+- I have experienced symptoms of PVCs, high blood pressure, eye floaters blurry vision, ringing in ears, and chronic fatigue for as long as I can remember. I also used to have terrible acne, cystic acne around events that caused these other conditions to flare up. This usually happened when I had some sort of sexual fantasy or watched porn. And it happened because I was neurotic about not letting that happen. If I do this then I will never be godlike. I will be a sinner. And all of these terrible things are happening to me because I am a sinner. My stepfather does not love me. And my mother and grandmother always critiques me. Its like they are torturing me. That's what I told my parish priest when I was 16.
+- Its not the physical abuse that harms us the most but the emotional abuse that is a part of the physical abuse. The beatings don't even have to physically hurt 
+- My mother liked to do everything for me. She would always cook for me and tell me everything I need to do. But at the same time I recognized from a young age that I would have to take care of her. I told her at 5 years old "I will go to school for you so you do not have to leave." 
+	- My mother is neurotic about things. I remember she would get so angry at me if I did not do something a certain a way.
+		- Even to this day if she asks me to do something for her. I get very angry.
+- Ever since I have detached myself more from my mother the acne has subsided. And I think my blood pressure if starting to be more towards the normal each day. Rather than being elevated.
+- Still with porn or masturbation these symptoms (other than acne or very little acne) flares up. I have tried EMDR and while I can recall the feelings that may have led to these feelings in the first place. That feeling that I got to get everything done in order to enjoy my day. And I cannot do anything "wrong". I either do not have the correct resolution for these feelings or these are not the correct feelings that inspired these physical symptoms. 
+	- Or there are more feelings I am not aware of yet.
+	- Or its a particular sequence of emotions.

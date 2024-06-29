@@ -1,0 +1,1 @@
+- Does this shit work? It seems like a way to reprogram my thoughts. My exposing them in a way that activates my subconscious. My subconscious becomes involved because the stimulus I am told to focus on is so boring. Then its like I am lucid dreaming but its focused on my the trauma I am trying to heal form.
