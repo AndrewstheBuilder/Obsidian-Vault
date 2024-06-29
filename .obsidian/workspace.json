@@ -143,8 +143,12 @@
             "id": "f8a21a1e67f6b4d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Boredom.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -214,6 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Boredom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Boredom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Boredom.md"
+              }
             }
           }
         ]
@@ -274,6 +282,7 @@
   "active": "f8a21a1e67f6b4d1",
   "lastOpenFiles": [
     "Deep Work Machine Learning Exploration.md",
+    "Untitled",
     "Hidden Emotions.md",
     "Boredom.md",
     "Emotional Incest.md",
