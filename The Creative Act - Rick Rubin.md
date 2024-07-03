@@ -1,0 +1,1 @@
+* The technical part of how you get something done is important. But your mind is not fully technical. It has emotions because you have limits. Its an integration of technique and emotions that leads to creativity. And effectiveness.

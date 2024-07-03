@@ -4,3 +4,5 @@
 - 07/02/24: I will try regularization with the Mean Error Loss. I will log the standard deviation of the activations. Then log the gradients just like the activation.
 	- Then maybe if I need to I will log out every activation and gradient for each layer at each iteration and see what is happening in there.
 	- [[Statistics]]
+- 07/03/24
+	- The gradients logged looks pretty similar across the board for both MSE and ME. So I am not sure what to make of that. I hope by staring at the activations and gradients vs. inputs across the iterations I can start to gain an intuition for how MSE is working and how ME is failing. It seems like I will have to do a lot of leg work after all.

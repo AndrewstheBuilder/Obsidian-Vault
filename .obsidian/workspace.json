@@ -162,9 +162,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92da1b6dadd8a3f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Work Machine Learning Exploration.md",
+                "file": "Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Work Machine Learning Exploration.md",
+                "file": "Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Work Machine Learning Exploration.md"
+                "file": "Statistics.md"
               }
             }
           }
@@ -291,8 +303,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a723fe0b155d8b85",
+  "active": "92da1b6dadd8a3f2",
   "lastOpenFiles": [
+    "The Creative Act - Rick Rubin.md",
     "Deep Work Machine Learning Exploration.md",
     "Statistics.md",
     "Boredom.md",
