@@ -1,0 +1,1 @@
+* What is variance, covariance, standard deviation? Give intuitions for the purpose of their existence and usage.

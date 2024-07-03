@@ -1,3 +1,6 @@
 - [[Ecological Dynamics]]
 - [[Embodied Cognition]]
 - [[Fast Weights]]
+- 07/02/24: I will try regularization with the Mean Error Loss. I will log the standard deviation of the activations. Then log the gradients just like the activation.
+	- Then maybe if I need to I will log out every activation and gradient for each layer at each iteration and see what is happening in there.
+	- [[Statistics]]
