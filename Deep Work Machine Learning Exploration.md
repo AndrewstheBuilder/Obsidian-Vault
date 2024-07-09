@@ -6,3 +6,10 @@
 	- [[Statistics]]
 - 07/03/24
 	- The gradients logged looks pretty similar across the board for both MSE and ME. So I am not sure what to make of that. I hope by staring at the activations and gradients vs. inputs across the iterations I can start to gain an intuition for how MSE is working and how ME is failing. It seems like I will have to do a lot of leg work after all.
+- 07/08/24
+	- I am logging activations for each training example. Because each training example produces an activation
+		- But for gradients I only get the final result after the losses have been calculated through the activations. So the final gradient after backpropagating through all of the training examples.
+		- How am I supposed to decipher this raw data?
+- 07/09/24
+	- The Mean Error is pushing my outputs to be always over 0. that seems to be the general theme. The activations for one of the layers are getting higher and higher. And I think its the last layer...
+	- **Theory**: if I can come up with a loss function that has (actual-predicted) in its derivative for prediction then the ML algorithm should work!

@@ -1,0 +1,4 @@
+* I was so sick of losing I wanted to control everything. Hence the obsession with not masturbating or watching porn. Self development. Limiting sugar. I was denying myself and my desires to get ahead.
+	* But then I lost the sensitivity to my desires and it was replaced with neurotic desires. I was toeing a fine line. I had to stay perfect if I wanted to win. To win at life. And to stop being the sad pathetic loser that I thought I was. 
+* [[Therapy-Self Healing Explorations]]
+	* How can I heal from this? [[EMDR]] and [[self awareness]] seems to be helping the most. But maybe there is a way to attack the root of the problem even better!
