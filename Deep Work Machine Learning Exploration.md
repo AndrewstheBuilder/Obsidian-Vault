@@ -13,3 +13,6 @@
 - 07/09/24
 	- The Mean Error is pushing my outputs to be always over 0. that seems to be the general theme. The activations for one of the layers are getting higher and higher. And I think its the last layer...
 	- **Theory**: if I can come up with a loss function that has (actual-predicted) in its derivative for prediction then the ML algorithm should work!
+- 07/11/24
+	- Starting MNIST implementation with Micrograd.
+	- Will move on to KAN and other experimental architectures after this is done. I want to know how to come up with architecture designs myself. And testing it!! Testing it could be hard. because the numbers we see in white papers are done on huge problems/datasets with huge computing resources thrown at it. I want to do like Yann LeCunn and create new architectures. Get to the fundamental aspects of intelligence. Like what is being done in [[Ecological Dynamics]]

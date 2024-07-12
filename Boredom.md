@@ -14,3 +14,4 @@
 - I think by logging the activations I was looking for vanishing or exploding activations with the loss function that was not working -> Mean Error(ME). In ME we saw exploding activations. While for Mean Squared Error (MSE) the activations reached a steady state by plateauing after its exponential rise or fall.
 	- Is it exploding activations that is causing the issue with my loss function And why does it explode. 
 		- Can I fix it by clipping my activations in my hidden layer?
+- When I am learning something that is too difficult for me. I have to understand what my intent is. I want to cover all of the gaps through hard work. Text book learning falls under this desire. Text books are hard to sit through. So no text books. LOL. WASTE OF TIME! Or is it? Because I can fill the gaps in my understanding through textbooks. But sometimes its hard to know what they are talking about. I have to strain to understand their context.

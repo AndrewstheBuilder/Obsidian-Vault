@@ -1,0 +1,3 @@
+* I realized that instead of passing in the 2D (28,28) examples to the ML algorithm. I have to flatten the dimensions before sending it in. I remember reading about the intuition for this somewhere. But now with my implementation in the first layer. Each pixel will have a weight associated to it. 
+	* I also read in the blog that I need to divide the pixels by 255 to scale it to be values between 0-1. because the pixel scale is 255.
+	* He converted the output values to one hot encoding. This is something I am familiar with but why do it? [[Deep Work Machine Learning Exploration]] 07/12/24
