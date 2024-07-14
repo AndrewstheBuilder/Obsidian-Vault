@@ -1,3 +1,4 @@
 - I have to find how it applies to myself.
 	- Everyone's context is completely different so I have to figure out where what they are saying applies to me and where there are caveats for me.
 - The actual feelings of problems don't come up until I am in the problem itself. Like I know I have problems dating but sitting here I cannot recall what those problems are. Then a pretty girl notices me and I get the feeling I have been avoiding. I feel sad that they are interested in me. I do not deserve their interest. I am disgusting. I do not deserve to be loved. I do not ever want anyone to love me. Now if I take that and apply that to a [[EMDR]] session will it help?? [[Personal Explorations]]
+- there is more information in any given moment then we can hope to take in. That is why our brain is built on efficiency. Focus on what matters the most for a given moment to move forward. But how do we determine what matters the most in any given moment???

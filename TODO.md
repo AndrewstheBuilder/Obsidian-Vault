@@ -1,0 +1,1 @@
+* Add blog for how I discovered why Mean Error Loss did not work as well as Mean Squared Error (MSE) Loss.

@@ -5,3 +5,14 @@
 	* Scaling: I don't think we need to scale the input values to be between 0-1. Its currently 0-255. That is alright. Why do it?
 	* Loss Function: So I have output neurons that match the number of neurons we got. And the max output neuron will be the chosen number(expected results between 0-9) and we have neurons 0-9. And it seems like the result can be any number. Unless I slap a loss function that will convert the neurons outputs to probabilities. loss function could be $each\_item / total\_score$. And the $max\_index(probs)$ gets chosen. 
 	* I need to put some kind of a constraints on this thing for common issues. Because I have 5 test inputs and I noticed that sometimes all of the outputs are 0.
+* 07/14/24: 
+	* Loss Function: So I got probs of what is predicted and I will choose the max probs for each training example as the prediction for that training example. So now what do I say the loss is? In a ideal world the neurons would have 0 probability for all the wrong outputs and 100% probability for the correct output. So the loss would be how are off from the ideal it is?? 
+		* Example: predicted_probs: [0.1, 0.2, 0.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0] -> predicted 2. Correct answer is three though. So losses: $(actual - predicted)^2$. Mean squared error(MSE). That should work.
+			* predicted_probs: [0.1, 0.2, 0.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+			* actual: [0,0,0,1,0,0,0,0,0,0]
+			* $(actual-predicted_probs)^2$: $[0.1^2,0.2^2,0.7^2,1^2,0^2,0^2,0^2,0^2,0^2,0^2 ]$
+			* loss for one example: $[0.1^2,0.2^2,0.7^2,1^2,0^2,0^2,0^2,0^2,0^2,0^2 ]$
+			* losses will be an array of arrays containing the above for each example
+			* Then take the (sum_of_each_example/num_classes) and sum that across all the examples. Then divide by num_of_examples. To end up with a single value we will call data_loss.
+			* Then we will call .backwards() on data_loss
+		* we are trying to drive all of the losses to zero. How does back propagation tie into the loss function to help with this?

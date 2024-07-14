@@ -4,228 +4,215 @@
     "type": "split",
     "children": [
       {
-        "id": "5616031977609213",
-        "type": "split",
+        "id": "82302cb0bb95f360",
+        "type": "tabs",
         "children": [
           {
-            "id": "82302cb0bb95f360",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "41f5591d6497d4f0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Deep Work Machine Learning Exploration.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "dfe48df7b56b45db",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Personal Explorations.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d41d83296480f500",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Personal Explorations.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "11acfd1a2fcb3f92",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embodied Cognition.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "22baef62929de348",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embodied Cognition.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c808c47b6930068b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Emotional Incest.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "0669bed8deed86db",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "0f3b1ccdfcae6965",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Jiu Jitsu Explorations.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a012ae3b220dfd49",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Therapy-Self Healing Explorations.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ddd8cec086a7b5be",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "e6e0b87d6accb152",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "ea788a15776a27fb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Boredom.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f8a21a1e67f6b4d1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Boredom.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "eb154492700f03b7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MNIST on Micrograd.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "92da1b6dadd8a3f2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Statistics.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "06e400abe0be22d3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "neurosis and what makes me tick.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "925f907fa913287f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Self Awareness.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "41f5591d6497d4f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Work Machine Learning Exploration.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 13
+            }
           },
           {
-            "id": "b6c39940068759e4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f522284605a8682f",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "MNIST on Micrograd.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
+            "id": "dfe48df7b56b45db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Explorations.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "d41d83296480f500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Explorations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11acfd1a2fcb3f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embodied Cognition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22baef62929de348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embodied Cognition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c808c47b6930068b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emotional Incest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0669bed8deed86db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f3b1ccdfcae6965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jiu Jitsu Explorations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a012ae3b220dfd49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Therapy-Self Healing Explorations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddd8cec086a7b5be",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6e0b87d6accb152",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea788a15776a27fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boredom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8a21a1e67f6b4d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boredom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb154492700f03b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Work Machine Learning Exploration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f553bf83814ded4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MNIST on Micrograd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92da1b6dadd8a3f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06e400abe0be22d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "neurosis and what makes me tick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "925f907fa913287f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Awareness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -352,14 +339,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb154492700f03b7",
+  "active": "7f553bf83814ded4",
   "lastOpenFiles": [
-    "Boredom.md",
-    "MNIST on Micrograd.md",
+    "Ecological Dynamics.md",
     "Deep Work Machine Learning Exploration.md",
+    "TODO.md",
+    "MNIST on Micrograd.md",
+    "Boredom.md",
     "2024-07-11.md",
     "Statistics.md",
-    "Ecological Dynamics.md",
     "neurosis and what makes me tick.md",
     "Self Awareness.md",
     "The Creative Act - Rick Rubin.md",
