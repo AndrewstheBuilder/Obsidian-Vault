@@ -1,3 +1,7 @@
 * I realized that instead of passing in the 2D (28,28) examples to the ML algorithm. I have to flatten the dimensions before sending it in. I remember reading about the intuition for this somewhere. But now with my implementation in the first layer. Each pixel will have a weight associated to it. 
 	* I also read in the blog that I need to divide the pixels by 255 to scale it to be values between 0-1. because the pixel scale is 255.
 	* He converted the output values to one hot encoding. This is something I am familiar with but why do it? [[Deep Work Machine Learning Exploration]] 07/12/24
+* 07/13/24: For the loss function I need to have some kind of percentage or something for the output neurons. So I can be like you are off by this much. Or maybe not?
+	* Scaling: I don't think we need to scale the input values to be between 0-1. Its currently 0-255. That is alright. Why do it?
+	* Loss Function: So I have output neurons that match the number of neurons we got. And the max output neuron will be the chosen number(expected results between 0-9) and we have neurons 0-9. And it seems like the result can be any number. Unless I slap a loss function that will convert the neurons outputs to probabilities. loss function could be $each\_item / total\_score$. And the $max\_index(probs)$ gets chosen. 
+	* I need to put some kind of a constraints on this thing for common issues. Because I have 5 test inputs and I noticed that sometimes all of the outputs are 0.
