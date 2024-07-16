@@ -169,7 +169,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "Emotional Incest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2e391208f05ff7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mother's Divorce.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "Mother's Divorce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "Mother's Divorce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MNIST on Micrograd.md"
+                "file": "Mother's Divorce.md"
               }
             }
           }
@@ -339,12 +351,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f553bf83814ded4",
+  "active": "c2e391208f05ff7c",
   "lastOpenFiles": [
+    "Emotional Incest.md",
+    "Mother's Divorce.md",
+    "MNIST on Micrograd.md",
     "Ecological Dynamics.md",
     "Deep Work Machine Learning Exploration.md",
     "TODO.md",
-    "MNIST on Micrograd.md",
     "Boredom.md",
     "2024-07-11.md",
     "Statistics.md",
@@ -353,7 +367,6 @@
     "The Creative Act - Rick Rubin.md",
     "Untitled",
     "Hidden Emotions.md",
-    "Emotional Incest.md",
     "Embodied Cognition.md",
     "Personal Explorations.md",
     "Jiu Jitsu Explorations.md",
