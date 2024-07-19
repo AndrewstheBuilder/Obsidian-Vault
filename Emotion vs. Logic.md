@@ -1,0 +1,4 @@
+- When should emotion guide my decisions and when should it be logic?
+- I believe you can try both. But it doesn't seem right just to say do whatever. Because emotions can get you into danger sometimes. And logic can ignore danger by being too reasonable. When you are reasoning there is a ton of view points that you are ignoring to choose the one that you think is correct. There are different paths of logic that you can go through that may keep you in touch with what is really going on. With what is reality. 
+	- Certain realities like physical danger is imminent you have to act on it or you will die as others have. Its hard to say that "oh you can not know what reality is when you are facing down the barrel of a gun"
+- So use both but how?

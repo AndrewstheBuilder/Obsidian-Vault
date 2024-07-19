@@ -8,3 +8,4 @@ And its effects on me
 - Still with porn or masturbation these symptoms (other than acne or very little acne) flares up. I have tried EMDR and while I can recall the feelings that may have led to these feelings in the first place. That feeling that I got to get everything done in order to enjoy my day. And I cannot do anything "wrong". I either do not have the correct resolution for these feelings or these are not the correct feelings that inspired these physical symptoms. 
 	- Or there are more feelings I am not aware of yet.
 	- Or its a particular sequence of emotions.
+- It makes sense that I was never comfortable around my mom or stepdad or could not imagine myself being close to them.

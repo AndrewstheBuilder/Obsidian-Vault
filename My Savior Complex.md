@@ -1,0 +1,3 @@
+07/19/24
+- Its interesting how I play with the dogs. I "fake abuse" them like oh you girls are just "cage puppies" or I tap their head like I am beating them but its soft. Like its cuteness aggression. I think it comes out of desire to save them from the abuser. I am acting out things that "happened" to me. Feelings that happened to me. Then I am trying to resolve them by being my own savior.
+- This could also be [[my kinks]]. I want to save a woman. I feel desire for women that have come out of broken homes or circumstances. I just want to wrap them up in my love and protect them. This can be good. But can it be bad also? Do women really need *me* to save them? I do not think so. It would be better if she had power of her own and we can meet as equals.
