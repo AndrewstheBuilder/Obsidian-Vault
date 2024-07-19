@@ -1,0 +1,1 @@
+- They are euphoric to have but cannot base everything off of one moment. Real work has to be done to solve complex issues.

@@ -16,3 +16,9 @@
 			* Then take the (sum_of_each_example/num_classes) and sum that across all the examples. Then divide by num_of_examples. To end up with a single value we will call data_loss.
 			* Then we will call .backwards() on data_loss
 		* we are trying to drive all of the losses to zero. How does back propagation tie into the loss function to help with this?
+- 07/19/24
+	- To drive the loss to zero in which direction should I update my parameters? Should I subtract or add the gradient for each parameter?
+		- Does the gradient need to be multiplied by anything (learning_rate is just a constant value we add to control the sizes of the updates so its simple to understand and I am not adding that in yet.)
+		- What is the gradient? --> It is the partial derivative of the parameter with respect to the cost function.
+			- It is how much to adjust the parameter to reduce the cost function to zero. but HOWWWW?????? How does the gradient know that this is the amount to adjust by to reduce the cost function? I am confused on the amount and which direction it should take. And if the adjustment actually does reduce the cost. 3 questions.
+			- The gradient gives the slope. Which in this case is the partial derivative. How is that supposed to inform me of how **much** to go in a certain direction? It just gives the slope. Why would the partial derivative of a parameter with respect to the loss be subtracted or added to minimize the loss to 0?
