@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cad5df53dec85421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CaseForOrAgainstChrist/Main Arguments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "CaseForOrAgainstChrist/Main Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "CaseForOrAgainstChrist/Main Arguments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MNIST on Micrograd.md"
+                "file": "CaseForOrAgainstChrist/Main Arguments.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41f5591d6497d4f0",
+  "active": "cad5df53dec85421",
   "lastOpenFiles": [
+    "CaseForOrAgainstChrist/Main Arguments.md",
+    "MNIST on Micrograd.md",
+    "CaseForOrAgainstChrist",
     "Deep Work Machine Learning Exploration.md",
     "2024-07-11.md",
     "Epiphanies.md",
@@ -157,14 +173,12 @@
     "Emotional Incest.md",
     "Emotion vs. Logic.md",
     "Mother's Divorce.md",
-    "MNIST on Micrograd.md",
     "Ecological Dynamics.md",
     "Boredom.md",
     "Statistics.md",
     "neurosis and what makes me tick.md",
     "Self Awareness.md",
     "The Creative Act - Rick Rubin.md",
-    "Untitled",
     "Hidden Emotions.md",
     "Embodied Cognition.md",
     "Personal Explorations.md",
