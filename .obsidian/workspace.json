@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82302cb0bb95f360",
+        "id": "d98bad8db78d161f",
         "type": "tabs",
         "children": [
           {
-            "id": "41f5591d6497d4f0",
+            "id": "94df2766591945ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cad5df53dec85421",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CaseForOrAgainstChrist/Main Arguments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CaseForOrAgainstChrist/Main Arguments.md",
+                "file": "MNIST on Micrograd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CaseForOrAgainstChrist/Main Arguments.md",
+                "file": "MNIST on Micrograd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CaseForOrAgainstChrist/Main Arguments.md"
+                "file": "MNIST on Micrograd.md"
               }
             }
           }
@@ -159,24 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cad5df53dec85421",
+  "active": "94df2766591945ef",
   "lastOpenFiles": [
-    "CaseForOrAgainstChrist/Main Arguments.md",
+    "neurosis and what makes me tick.md",
     "MNIST on Micrograd.md",
+    "CaseForOrAgainstChrist/Main Arguments.md",
+    "My Kinks.md",
     "CaseForOrAgainstChrist",
     "Deep Work Machine Learning Exploration.md",
     "2024-07-11.md",
     "Epiphanies.md",
     "TODO.md",
     "My Savior Complex.md",
-    "My Kinks.md",
     "Emotional Incest.md",
     "Emotion vs. Logic.md",
     "Mother's Divorce.md",
     "Ecological Dynamics.md",
     "Boredom.md",
     "Statistics.md",
-    "neurosis and what makes me tick.md",
     "Self Awareness.md",
     "The Creative Act - Rick Rubin.md",
     "Hidden Emotions.md",
