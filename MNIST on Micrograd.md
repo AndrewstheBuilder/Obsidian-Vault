@@ -30,4 +30,8 @@
 	- I am kind of bored of this today. I do not feel like exploring it as much. I do not know why. But I am going to put in at least an hour more of work then I need to go get some dinner or make some dinner.
 	- Okay so the parameters are not getting their gradients like they are supposed to. But I feel like I have done everything right. So this is going to be hard to fix. Where is the issue?!!! There is also the problem of all of the predicted probabilities coming as zero. That should not be happening. 
 		- So there are too many parameters for me to debug the network effectively. I think... So I need to design a toy problem to make it easier to fix. Problems: 1. Why are the gradients not flowing to the parameters. 2. Why are all of the probabilities coming back as 0?
-	
+- 07/22/24
+	- So it seems like there are gradients flowing back all the way to the first layer but the number of gradients start to decrease after the last layer. Why is that???
+	- So I fixed it it was a programming error I believe and not an issue in my neural network code implementation. 
+	- TODO: I want to manually back propagate from my loss function just to prove to myself that it will actually update the parameters in a meaningful way.
+	- But first finish solving MNIST with the MLP
