@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "Mother's Divorce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "Mother's Divorce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "Mother's Divorce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MNIST on Micrograd.md"
+                "file": "Mother's Divorce.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "94df2766591945ef",
   "lastOpenFiles": [
-    "neurosis and what makes me tick.md",
     "MNIST on Micrograd.md",
+    "neurosis and what makes me tick.md",
     "CaseForOrAgainstChrist/Main Arguments.md",
     "My Kinks.md",
     "CaseForOrAgainstChrist",
