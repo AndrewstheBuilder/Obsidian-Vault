@@ -35,3 +35,20 @@
 	- So I fixed it it was a programming error I believe and not an issue in my neural network code implementation. 
 	- TODO: I want to manually back propagate from my loss function just to prove to myself that it will actually update the parameters in a meaningful way.
 	- But first finish solving MNIST with the MLP
+07/24/24 **Not getting the mean part of mean squared error loss**
+- So it seems like the loss function I have in place does not make the predictions get better even when the loss is going down. How is that possible??
+	- I need better predictions and I need to influence that by changing the loss function somehow.
+- So I get the losses using mean squared error. What is the mean part of this? Its the sum then divide by the number of training examples right
+```python 
+# Calculate total loss
+
+    # 1. take (sum_of_each_example/num_classes)
+
+    # 2. then data_loss = sum across all the examples / num_of_examples
+
+    # 3. data_loss.backward()
+```
+* I have this psuedo code. I think the step where I take the average loss between classes is unnecessary. Why do I even take the average anyways? What is that accomplishing why is there a mean in the mean squared error? What is the mean accomplishing?
+	* With step one we are spreading out the loss across all of the examples. So if its one example that is causing the most problems we are distributing that error across all of the examples and they are being adjusted equally. So we need to take out the /num_classes\
+	* Step 2 justification... I can actually apply the same logic as above to why we should remove dividing by num_of_examples but to calculate a mean you have to do the sum()/num_of_examples somewhere!  
+	* How long should it take to overfit a small dataset of MNIST anyways? My execution runs so slow... its ridiculous.

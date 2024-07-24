@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d98bad8db78d161f",
+        "id": "f1c3d833450e630c",
         "type": "tabs",
         "children": [
           {
-            "id": "94df2766591945ef",
+            "id": "fc035e34077af265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mother's Divorce.md",
+                "file": "MNIST on Micrograd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mother's Divorce.md",
+                "file": "MNIST on Micrograd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mother's Divorce.md",
+                "file": "MNIST on Micrograd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mother's Divorce.md"
+                "file": "MNIST on Micrograd.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94df2766591945ef",
+  "active": "fc035e34077af265",
   "lastOpenFiles": [
+    "Mother's Divorce.md",
     "MNIST on Micrograd.md",
     "neurosis and what makes me tick.md",
     "CaseForOrAgainstChrist/Main Arguments.md",
@@ -160,7 +161,6 @@
     "My Savior Complex.md",
     "Emotional Incest.md",
     "Emotion vs. Logic.md",
-    "Mother's Divorce.md",
     "Ecological Dynamics.md",
     "Boredom.md",
     "Statistics.md",
