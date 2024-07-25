@@ -1,0 +1,1 @@
+1. It would be nice to have an LLM that could understand something from its lowest building block to have those building blocks work at the higher levels. How the building blocks interact to bring about the higher complexity of things. That would require that the A.I. understands things at a higher level.

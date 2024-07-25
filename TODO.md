@@ -1,3 +1,4 @@
-* Add blog for how I discovered why Mean Error Loss did not work as well as Mean Squared Error (MSE) Loss.
+* Add blog for how I discovered why Mean Error Loss did not work as well as Mean **Squared** Error (MSE) Loss. Why do we need the **squared** part?
+* Add blog post on why we need the **mean** part of mean squared error loss
 * Read two books to have in depth, rich knowledge to back up why I do not like organized religion and why I think it is bad for people. It will leave them vulnerable to predators or just to life's various twists and turns. Without the optimal tools to deal with them. Maybe you have done just fine but is there a guarantee that your children or great grandchildren will be the same. You have to build a more resilient and truly loving culture for those kids to grow up in. 
 	* Main source "Case for Christ" supplement with "The Case Against the Case for Christ". I can not take the arguments word for word. But I can get the gist of it and use it.

@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3e0eeca250e81145",
@@ -148,8 +149,11 @@
   },
   "active": "fc035e34077af265",
   "lastOpenFiles": [
-    "Mother's Divorce.md",
+    "Business Ideas/Project Ideas.md",
     "MNIST on Micrograd.md",
+    "Business Ideas",
+    "TODO.md",
+    "Mother's Divorce.md",
     "neurosis and what makes me tick.md",
     "CaseForOrAgainstChrist/Main Arguments.md",
     "My Kinks.md",
@@ -157,7 +161,6 @@
     "Deep Work Machine Learning Exploration.md",
     "2024-07-11.md",
     "Epiphanies.md",
-    "TODO.md",
     "My Savior Complex.md",
     "Emotional Incest.md",
     "Emotion vs. Logic.md",
@@ -173,7 +176,6 @@
     "Feeling Overwhelmed.md",
     "Fast Weights.md",
     "Therapy-Self Healing Explorations.md",
-    "EMDR.md",
-    "Red Light.md"
+    "EMDR.md"
   ]
 }

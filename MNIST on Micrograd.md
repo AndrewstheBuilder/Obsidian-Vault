@@ -50,5 +50,15 @@
 ```
 * I have this psuedo code. I think the step where I take the average loss between classes is unnecessary. Why do I even take the average anyways? What is that accomplishing why is there a mean in the mean squared error? What is the mean accomplishing?
 	* With step one we are spreading out the loss across all of the examples. So if its one example that is causing the most problems we are distributing that error across all of the examples and they are being adjusted equally. So we need to take out the /num_classes\
-	* Step 2 justification... I can actually apply the same logic as above to why we should remove dividing by num_of_examples but to calculate a mean you have to do the sum()/num_of_examples somewhere!  
+	* Step 2 justification... I can actually apply the same logic as above to why we should remove dividing by num_of_examples but to calculate a mean you have to do the sum()/num_of_examples somewhere! Why would we spread the loss across examples to make them all be even? We are driving the loss to be zero anyways why not just make it be zero without having a mean calculation on top of it. Just some up all of the errors/losses.
 	* How long should it take to overfit a small dataset of MNIST anyways? My execution runs so slow... its ridiculous.
+		* We need batched gradient descent
+07/25/24
+- **Mean** squared error loss: the mean part is saying that we are getting what the average loss is for a typical example. So this is what the expected loss can be for a given input. 
+	- the average is what the model can be expected to do.
+	- I want to understand the theoretical underpinnings of mean. Why did they decide to do it at all? 
+		- **Answer**: Its because most data follows that bell curve known as the normal distribution. So most of the data is around the mean. Std deviation measures the square root of the distance from the mean.
+		- And the most important question why is the mean relevant to the loss function in Machine Learning. **Mean** Squared Error Loss.
+			- What if one example is causing all of the loss?
+- Once the model starts training the probabilities start to look similar across the examples why is that. That seems like its obviously wrong.
+- I am going to train by each example. Something is probably going wrong when I am taking the average loss across the examples. What part of the mean squared error loss am I supposed to apply. So I have a multiple classes but a single output. And I have multiple examples. Do I take the average of the losses across the classes and the examples or only the examples?
