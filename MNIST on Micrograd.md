@@ -62,3 +62,11 @@
 			- What if one example is causing all of the loss?
 - Once the model starts training the probabilities start to look similar across the examples why is that. That seems like its obviously wrong.
 - I am going to train by each example. Something is probably going wrong when I am taking the average loss across the examples. What part of the mean squared error loss am I supposed to apply. So I have a multiple classes but a single output. And I have multiple examples. Do I take the average of the losses across the classes and the examples or only the examples?
+07/30/24
+* training one example at a time now. Time to see what is up with this.
+* ChatGPT I might be calculating the probabilities wrong and to use a softmax. I am also seeing that while the loss is going down slowly the accuracy is not going up.
+	* I might get more distinguishable probabilities using softmax as opposed to using divide by the total score.
+	* There is also something about using the maximum likelihood estimation loss instead of mean squared error loss with the softmax predictor. The log in max likelihood estimation loss and e in softmax will cancel each other. [https://stackoverflow.com/questions/17187507/why-use-softmax-as-opposed-to-standard-normalization] Its not intuitive to me yet. 
+	* I am willing to plug it in and see what happens. Then I want to derive how we actually get there. 
+		1. Which means doing manual backpropagation I think. 
+		2. And seeing what the gradients are doing
