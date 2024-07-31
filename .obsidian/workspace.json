@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "MNIST on Micrograd Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "MNIST on Micrograd Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "MNIST on Micrograd Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "MNIST on Micrograd Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MNIST on Micrograd.md"
+                "file": "MNIST on Micrograd Log.md"
               }
             }
           }
@@ -185,11 +185,11 @@
   },
   "active": "57617569329d0d38",
   "lastOpenFiles": [
+    "MNIST on Micrograd Log.md",
     "Struggle With Dating.md",
     "Trauma Epiphanies.md",
     "What Caused the Trauma Epiphany.md",
     "Moving from Jacksonville.md",
-    "MNIST on Micrograd.md",
     "Business Ideas/Project Ideas.md",
     "Business Ideas",
     "TODO.md",
