@@ -1,0 +1,2 @@
+- Reexperiencing the cause/effect.
+	- How do I bring this about? Its difficult maybe impossible. But in the context of trauma its usually something that was reexperienced especially in my situation where it was a bunch of micro traumas. If it was a single experience then its intense. so it would stick around in the mind even if you are currently shielding yourself from it.

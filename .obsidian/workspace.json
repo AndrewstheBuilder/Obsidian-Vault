@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "747e8e759ac10cac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trauma Epiphanies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c9cc18da993b852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trauma Epiphanies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57617569329d0d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Struggle With Dating.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3e0eeca250e81145",
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "Trauma Epiphanies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MNIST on Micrograd.md",
+                "file": "Trauma Epiphanies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MNIST on Micrograd.md"
+                "file": "Trauma Epiphanies.md"
               }
             }
           }
@@ -147,10 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc035e34077af265",
+  "active": "4c9cc18da993b852",
   "lastOpenFiles": [
-    "Business Ideas/Project Ideas.md",
+    "What Caused the Trauma Epiphany.md",
+    "Trauma Epiphanies.md",
+    "Struggle With Dating.md",
+    "Moving from Jacksonville.md",
     "MNIST on Micrograd.md",
+    "Business Ideas/Project Ideas.md",
     "Business Ideas",
     "TODO.md",
     "Mother's Divorce.md",
@@ -160,7 +200,6 @@
     "CaseForOrAgainstChrist",
     "Deep Work Machine Learning Exploration.md",
     "2024-07-11.md",
-    "Epiphanies.md",
     "My Savior Complex.md",
     "Emotional Incest.md",
     "Emotion vs. Logic.md",
@@ -173,9 +212,6 @@
     "Embodied Cognition.md",
     "Personal Explorations.md",
     "Jiu Jitsu Explorations.md",
-    "Feeling Overwhelmed.md",
-    "Fast Weights.md",
-    "Therapy-Self Healing Explorations.md",
-    "EMDR.md"
+    "Feeling Overwhelmed.md"
   ]
 }
