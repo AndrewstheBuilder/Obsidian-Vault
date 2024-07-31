@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Struggle With Dating.md",
+                "file": "MNIST on Micrograd.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trauma Epiphanies.md",
+                "file": "MNIST on Micrograd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trauma Epiphanies.md",
+                "file": "MNIST on Micrograd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trauma Epiphanies.md"
+                "file": "MNIST on Micrograd.md"
               }
             }
           }
@@ -183,11 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c9cc18da993b852",
+  "active": "57617569329d0d38",
   "lastOpenFiles": [
-    "What Caused the Trauma Epiphany.md",
-    "Trauma Epiphanies.md",
     "Struggle With Dating.md",
+    "Trauma Epiphanies.md",
+    "What Caused the Trauma Epiphany.md",
     "Moving from Jacksonville.md",
     "MNIST on Micrograd.md",
     "Business Ideas/Project Ideas.md",

@@ -1,0 +1,1 @@
+- I refuse to talk to women. Especially ones I like. I have good reasons for this. They were not pretty enough, they would not want me anyway, this is not the right place to approach, I am not good enough.

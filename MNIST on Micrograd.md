@@ -70,3 +70,17 @@
 	* I am willing to plug it in and see what happens. Then I want to derive how we actually get there. 
 		1. Which means doing manual backpropagation I think. 
 		2. And seeing what the gradients are doing
+07/31/24
+- With manual back propagation I am trying to see how the parameters will be updated and if the way I defined the loss function or the way I turned the final results into probabilities causes any issues. 
+- So starting with the loss. we got total_loss.backward(). Well what comes before. We have the total_loss calculation which is all of the losses added up.
+	- we get a total of 10 results. [1,2,3,4,5,6,7,8,9,10] then we divide each result by the total. [1/55, 2/55, ...] So with this we get the probabilties of each result found my the ML classifier.
+	- After we do the loss calculation which is [(expected-actual)^2] expected is either 0 or 1. 
+	- this is so hard to visualize. I am disoriented and I do not know what to focus on.
+- Taking the sum total of all the predictions and dividing to get the probabilities of the predictions is not a differentiable function. https://stats.stackexchange.com/a/419753
+- So there are 2 things 
+	- 1. Evaluating predictions function. I did not do a differentiable function here. Taking the total is not differentiable. Because we can get all zeros. Or more likely just these scenarios in the above bullet point. Where the sum equals one or the sum cancels out and I end up with zero.
+		- What happens when the function is not differentiable to back propagation in micrograd?
+		- I have handled the scenario where the total is zero. But I have not handled where the total could be 1 thereby giving incorrect probabilities. I think that is reason enough to use softmax. I can not keep investigating this further for now.
+	- 2. Loss function
+		- Currently using squared error loss.
+- So I changed 1. and kept 2.  and it did not improve my accuracy. Actually my loss is not even going down anymore. What's the deal yoo?
