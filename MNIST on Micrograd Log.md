@@ -84,3 +84,8 @@
 	- 2. Loss function
 		- Currently using squared error loss.
 - So I changed 1. and kept 2.  and it did not improve my accuracy. Actually my loss is not even going down anymore. What's the deal yoo?
+08/01/24
+- The loss is not going down because my grads are 0!
+- Where is the backward() being blocked. My loss function is good. I did the derivatives in my head lol. And there is nothing there to zero out anything. But the softmax function is suspect to me.
+- So the gradient stops flowing because of the micrograd implementation. In softmax we lose the original object and have to create a new Value object so the gradient stops at that new Value object and does not go back further into the previous calculations.
+	- To fix this I need to add exp() into my micrograd implementation.
