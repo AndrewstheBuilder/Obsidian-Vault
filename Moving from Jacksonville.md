@@ -4,11 +4,13 @@
 - Everywhere else is for tech scene first and jiu jitsu scene second. Except Maryland
 - San Diego, California
 - San Francisco, California. Silicon valley baby!
+	- Visiting San Francisco this December! [[Visiting San Francisco December 2024]]
 - Chicago
 - Seattle
 - Maryland. Standard Jiu Jitsu!!!
 	- Washington DC!!
 - Atlanta
+	- I like the area. Traffic seems insane. But its very pretty. Mountainous. Lot of baddies. LOL. 
 - Boston, MA
 
 #### Evaluating Places

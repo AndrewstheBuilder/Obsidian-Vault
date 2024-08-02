@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "73ffec21da7545e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moving from Jacksonville.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "747e8e759ac10cac",
             "type": "leaf",
             "state": {
@@ -180,11 +192,13 @@
   },
   "active": "fc035e34077af265",
   "lastOpenFiles": [
+    "Self Awareness.md",
     "MNIST on Micrograd Log.md",
+    "Moving from Jacksonville.md",
+    "Visiting San Francisco December 2024.md",
     "Struggle With Dating.md",
     "Trauma Epiphanies.md",
     "What Caused the Trauma Epiphany.md",
-    "Moving from Jacksonville.md",
     "Business Ideas/Project Ideas.md",
     "Business Ideas",
     "TODO.md",
@@ -201,12 +215,10 @@
     "Ecological Dynamics.md",
     "Boredom.md",
     "Statistics.md",
-    "Self Awareness.md",
     "The Creative Act - Rick Rubin.md",
     "Hidden Emotions.md",
     "Embodied Cognition.md",
     "Personal Explorations.md",
-    "Jiu Jitsu Explorations.md",
-    "Feeling Overwhelmed.md"
+    "Jiu Jitsu Explorations.md"
   ]
 }

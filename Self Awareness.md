@@ -1,3 +1,6 @@
 ## And my journey through it
 - I wanted to make the title shorter so its easier to reference from other notes
 - This journey started in college or late high school somewhere. Whenever I started to keep a journal is whenever this journey truly began. It had many beginnings.
+- 08/02/24: I might have brought my self-awareness up and learned to be comfortable with my feelings. But I am having trouble dealing with the feelings of others. Feelings of obligation and feeling of being trapped. I have to solve this to move farther
+	- One place I noticed this is when I share music I like. I really want the other person to like it so I do not enjoy it as much as when I listen to it myself. It also becomes stressful. I am afraid of them rejecting it. It always feels like a painful rejection.
+		- This might be related to the way my stepdad would ignore me when I had some pressing issue that I needed solved. Like my shoe had a hole in it and I had to wear it to school. He would not buy me a new one. It hurt like hell especially thinking about how I will have to go into school the next day with these same pair of shoes on.
