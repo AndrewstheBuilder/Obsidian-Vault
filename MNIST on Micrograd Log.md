@@ -94,8 +94,12 @@
 - Its been hard tracing the backwards prop. But I am making progress on it. When it feels like it will take an immense amount of effort to achieve my end. I start to naturally become lazy and I slow down on it. Its been a month since I started this. But I have made a lot of good, helpful progress. 
 	- Next thing I want to do is something I can put down on my resume. And I want to continue to mess around with KANs and other neural network architectures too. See what the common thread is between them. And how I can begin to research my own ways to build this thing.
 - I tried following the numbers in back prop through modified logs for engine.py in Micrograd but it got me no where. Next time actually derive the back propagation and go through it manually. That should help me understand why I am getting zeros backpropagating after going inside softmax. Softmax is stopping my gradients from flowing The manual back propagation step has been started below:
+
+08/05/24
 #### Manual Backpropagation through Softmax
 - I actually think there is a more efficient way of doing softmax backprop through some other kind of derivation but we are not doing that today. 
-- total.backward()
-	1. The total = .sum(exp_score * sum_exp_score**-1) where the derivative is just summing together all the derivatives of the individual. 
-	2. the
+- Don't forget the chain rule means the previous derivative will be multiplied to all of these derivatives. So I guess for each step put what out.grad will be.
+	1. total.backward() = 1 for total
+	2. The total = .sum(exp_score * sum_exp_score**-1) where the derivative is just summing together all the derivatives of the individual elements that are being summed
+		1. out.grad=1
+	3. then we have exp_score/sum_exp_scores which the derivative is d/d_exp_score = 1 and d/d_sum_exp_scores is -1/sum_exp_scores^2. 
